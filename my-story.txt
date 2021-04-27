@@ -6,3 +6,7 @@ List of things to do:
 * Gather images from phone
 * Place images in appropriate folders
 * Start gathering thoughts on any initial images I come across.
+* Source wire photos from the year.
+ 
+ Figure out design ideas for this project. Does it live on the web or is it private?
+ Is it an actual book or is it virtual?
